@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1509822479 source:c:\users\adriana gutiérrez\onedrive\documentos\grafo\main.cpp
+	"graph.h"
+
+1509823291 source:c:\users\adriana gutiérrez\onedrive\documentos\grafo\src\edge.cpp
+	"graph.h"
+
+1509633223 c:\users\adriana gutiérrez\onedrive\documentos\grafo\include\edge.h
+
+1509823207 source:c:\users\adriana gutiérrez\onedrive\documentos\grafo\src\graph.cpp
+	"graph.h"
+
+1509817954 c:\users\adriana gutiérrez\onedrive\documentos\grafo\include\graph.h
+	"node.h"
+	"edge.h"
+	"vector"
+
+1509823207 source:c:\users\adriana gutiérrez\onedrive\documentos\grafo\src\node.cpp
+	"graph.h"
+
+1509635825 c:\users\adriana gutiérrez\onedrive\documentos\grafo\include\node.h
+	<iostream>
+	<list>
+
